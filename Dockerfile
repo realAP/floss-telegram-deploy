@@ -1,2 +1,2 @@
 FROM alpine
-CMD while true; do echo "version:16"; sleep 5; done
+CMD while true; do echo "moon son"; sleep 5; done
